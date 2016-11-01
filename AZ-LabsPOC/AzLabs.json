@@ -1,0 +1,85 @@
+[
+ {
+ "Territory": "ALBANY NY",
+ "trialLat": "42.584410",
+ "trialLong": "-73.671439",
+ "Lab": "LABCORP",
+ "LabAddress": "2500 PONDVIEW SUITE 102",
+ "LabCity": "CASTLETON ON HUDSON",
+ "LabState": "NY",
+ "LabZip": "12033",
+ "LabPhone": "518-479-0034",
+ "LabFax": "518-479-0039"
+ },
+ {
+ "Territory": "ALBANY NY",
+ "trialLat": "42.677979",
+ "trialLong": "-74.482807",
+ "Lab": "LABCORP",
+ "LabAddress": "596 E MAIN ST",
+ "LabCity": "COBLESKILL",
+ "LabState": "NY",
+ "LabZip": "12043",
+ "LabPhone": "518-234-1361",
+ "LabFax": "518-234-1358"
+ },
+ {
+ "Territory": "ALBANY NY",
+ "trialLat": "42.630102",
+ "trialLong": "-73.811558",
+ "Lab": "LABCORP",
+ "LabAddress": "2 NORMANSKILL BLVD STE 203",
+ "LabCity": "DELMAR",
+ "LabState": "NY",
+ "LabZip": "12054",
+ "LabPhone": "518-475-1560",
+ "LabFax": "518-475-0199"
+ },
+ {
+ "Territory": "ALBANY NY",
+ "trialLat": "42.867764",
+ "trialLong": "-73.805344",
+ "Lab": "LABCORP",
+ "LabAddress": "952 ROUTE 146",
+ "LabCity": "CLIFTON PARK",
+ "LabState": "NY",
+ "LabZip": "12065",
+ "LabPhone": "518-371-5360",
+ "LabFax": "518-371-1563"
+ },
+ {
+ "Territory": "ALBANY NY",
+ "trialLat": "42.727569",
+ "trialLong": "-73.759845",
+ "Lab": "LABCORP",
+ "LabAddress": "595 NEW LOUDON ROAD",
+ "LabCity": "LATHAM",
+ "LabState": "NY",
+ "LabZip": "12110",
+ "LabPhone": "518-783-2648",
+ "LabFax": "518-783-2671"
+ },
+ {
+ "Territory": "ALBANY NY",
+ "trialLat": "42.733844",
+ "trialLong": "-73.687288",
+ "Lab": "LABCORP",
+ "LabAddress": "2001 5TH AVENUE",
+ "LabCity": "TROY",
+ "LabState": "NY",
+ "LabZip": "12180",
+ "LabPhone": "518-271-0117",
+ "LabFax": "518-271-0258"
+ },
+ {
+ "Territory": "ALBANY NY",
+ "trialLat": "42.412411",
+ "trialLong": "-73.681335",
+ "Lab": "LABCORP",
+ "LabAddress": "1301 RIVER ST RM 103",
+ "LabCity": "VALATIE",
+ "LabState": "NY",
+ "LabZip": "12184",
+ "LabPhone": "518-758-7699",
+ "LabFax": "518-758-7889"
+ }]
